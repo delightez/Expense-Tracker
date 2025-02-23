@@ -18,7 +18,7 @@ To use this project, follow these steps:
 
 1. **Clone the repository**
 ```bash
-git clone <YOUR_GITHUB_REPO_URL>
+git clone https://github.com/delightez/Expense-Tracker
 cd expense-tracker
 ```
 
